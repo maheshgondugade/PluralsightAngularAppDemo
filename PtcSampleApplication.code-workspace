@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "PtcApi"
+		},
+		{
+			"path": "PTC"
+		}
+	],
+	"settings": {},
+	"git":{
+		// Is git enabled
+		"git.enabled": true,
+	
+		// Path to the git executable
+		"git.path": "C:\\Program Files\\Git\\git-bash.exe"
+	
+		// other settings
+	}
+}
